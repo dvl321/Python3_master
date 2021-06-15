@@ -4,5 +4,5 @@ print("We are checking it for syntax")
 if 9 > 2:
     print("Nine is grater than two")
 
-if 10 < 3:
-    print("Ten is lessthan three")
+if 3 < 10:
+    print("three is lessthan Ten")
